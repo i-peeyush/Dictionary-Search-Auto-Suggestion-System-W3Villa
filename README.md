@@ -204,9 +204,8 @@ Response:
 * No database is used
 * Duplicate words are not allowed
 * Suggestions are sorted by:
-
   1. Frequency
   2. Lexicographical order
 * Backend-only implementation
 * No frontend/UI included
-* Spring Boot is used for REST API creation
+* Spring Boot is used for REST API creation as I have used Java as my main prgramming language.
